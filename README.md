@@ -6,6 +6,10 @@ The app stores test history locally on the device. It does not require an accoun
 
 > **Important:** Optimystic is an educational and screening aid, not a medical device. It does not diagnose eye conditions or replace an examination by a qualified eye-care professional.
 
+## Project website
+
+Visit the [Optimystic website](https://optimystic-mva.netlify.app/) for an overview, video tutorials, support, and the privacy policy.
+
 ## Fastest way to try it
 
 For the easiest zero-install experience, open the [Optimystic MVA web app](https://optimystic-mva.netlify.app/).
