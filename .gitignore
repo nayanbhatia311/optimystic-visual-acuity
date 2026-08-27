@@ -1,0 +1,36 @@
+# Xcode user data and generated output
+DerivedData/
+build/
+*.xcuserstate
+xcuserdata/
+*.xccheckout
+*.xcscmblueprint
+
+# Swift Package Manager
+.build/
+.swiftpm/
+Package.resolved
+
+# Local tooling and environments
+.codex-derived/
+.venv*/
+.env
+.env.*
+!.env.example
+
+# Signing material and secrets
+*.p12
+*.mobileprovision
+*.cer
+*.key
+*.pem
+AuthKey_*.p8
+
+# macOS
+.DS_Store
+
+# Private working material and large exports
+AppStore/
+*.mp4
+*.mov
+*.pdf

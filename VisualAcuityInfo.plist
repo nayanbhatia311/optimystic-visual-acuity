@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleDisplayName</key>
+    <string>Optimystic</string>
+    <key>ITSAppUsesNonExemptEncryption</key>
+    <false/>
+    <key>NSBonjourServices</key>
+    <array>
+        <string>_visacuity-mvp._tcp</string>
+        <string>_visacuity-mvp._udp</string>
+    </array>
+    <key>NSLocalNetworkUsageDescription</key>
+    <string>Optimystic uses your local network to connect the controller device and patient display device.</string>
+</dict>
+</plist>
