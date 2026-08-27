@@ -8,6 +8,10 @@ The app stores test history locally on the device. It does not require an accoun
 
 ## Fastest way to try it
 
+For the easiest zero-install experience, open the [Optimystic MVA web app](https://optimystic-mva.netlify.app/).
+
+To run the native iPhone and Apple Watch app, follow the steps below.
+
 You need a Mac with Xcode 16 or newer.
 
 1. Click **Code → Download ZIP** on GitHub and unzip it, or clone the repository.
