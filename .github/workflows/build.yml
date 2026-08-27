@@ -13,6 +13,8 @@ jobs:
     runs-on: macos-15
     steps:
       - uses: actions/checkout@v4
+      - name: Audit public release contents
+        run: ./scripts/audit_public_release.sh
       - name: Build for iOS Simulator
         run: |
           xcodebuild \

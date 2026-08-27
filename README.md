@@ -34,6 +34,8 @@ For meaningful sizing, follow the in-app calibration guidance and keep the state
 - Nearby-device pairing uses the local network; no remote server is configured.
 - This repository contains no credentials, provisioning profiles, developer signing identity, personal Xcode workspace data, patient records, or private working documents.
 
+Run `./scripts/audit_public_release.sh` before publishing. The same isolation check runs automatically in GitHub Actions and rejects common credentials, signing files, Xcode user data, build output, local user paths, private documents, and unexpectedly large files.
+
 See [PRIVACY.md](PRIVACY.md) for details.
 
 ## Requirements
