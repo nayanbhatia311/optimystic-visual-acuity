@@ -12,8 +12,6 @@ Visit the [Optimystic website](https://optimystic-mva.netlify.app/) for an overv
 
 ## Fastest way to try it
 
-For the easiest zero-install experience, open the [Optimystic MVA web app](https://optimystic-mva.netlify.app/).
-
 To run the native iPhone and Apple Watch app, follow the steps below.
 
 You need a Mac with Xcode 16 or newer.
